@@ -26,5 +26,4 @@
 - [정다현](https://github.com/honeybeat1)
 - [정재훈](https://github.com/ww81)
 - [이주영](https://github.com/leekj3133)
-- [설유환](https://github.com/syh0397)
 - [최석준](https://github.com/sparrow422)
